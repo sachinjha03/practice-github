@@ -4,3 +4,10 @@ h1{
 p{
     max-width: 500px;
 }
+button{
+    border: none;
+    background-color: palevioletred;
+    color: white;
+    padding: 0.6rem 1.2rem;
+    border-radius: 4px;
+}
