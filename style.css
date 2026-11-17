@@ -11,3 +11,9 @@ button{
     padding: 0.6rem 1.2rem;
     border-radius: 4px;
 }
+
+.card{
+    width: 300px;
+    padding: 2rem 2rem;
+    border: 1px solid;
+}
